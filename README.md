@@ -170,4 +170,3 @@ Plano de Estudos para Certificação AZ-104
 - perform site-to-site recovery by using Azure Site Recovery
 - configure and review backup reports
   
-wws
