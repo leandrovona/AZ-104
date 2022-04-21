@@ -169,4 +169,6 @@ Plano de Estudos para Certificação AZ-104
 - perform backup and restore operations by using Azure Backup
 - perform site-to-site recovery by using Azure Site Recovery
 - configure and review backup reports
-  
+
+
+1
